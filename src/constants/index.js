@@ -172,9 +172,9 @@ export const projects = [
     {
         iconUrl: anime,
         theme: 'btn-back-blue',
-        name: 'Anime Library',
-        description: 'Developed a web application for watching anime without ads, using an API to fetch episode data and information about the top airing anime.',
-        link: 'https://github.com/tenzinkunchok25/animelibrary',
+        name: 'Film Horizon',
+        description: 'Designed and developed Film Horizon, a movie streaming platform, utilizing HTML, CSS, and JavaScript. Integrated Rest APIs from TMDB and VisSrc to enhance user experience with seamless video streaming capabilities.',
+        link: 'https://github.com/tenzinkunchok25/film-horizon',
     },
     {
         iconUrl: netflix,
