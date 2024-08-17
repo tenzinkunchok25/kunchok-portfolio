@@ -108,11 +108,11 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Web Developer",
-        company_name: "HTML, CSS, Javascript",
+        title: "Sofware Engineering Intern",
+        company_name: "Radical AI",
         icon: website,
         iconBg: "#b7e4c7",
-        date: "Sep 2019 - present",
+        date: "Jan 2024 - Apr 2024",
         points: [
             "Developing and maintaining web applications using HTML, CSS, JS and other related technologies.",
             "Collaborating with others to create high-quality products which are usefula and usable.",
@@ -121,31 +121,15 @@ export const experiences = [
         ],
     },
     {
-        title: " Java App Developer",
-        company_name: "Java, MySQL",
-        icon: diet,
-        iconBg: "#accbe1",
-        date: "September 2023 - December  2023",
+        title: "Computer Science Student",
+        company_name: "York University",
+        icon: website,
+        iconBg: "#b7e4c7",
+        date: "Sep 2019 - Dec 2023",
         points: [
-            "Developed a diet tracking app in collabortion with three other students using git for version control.",
-            "The application is able to track the diet of user and excercise and predict the weight loss of the user.",
-            "All data for all users including user profiles, diet and exercise logs are stored securely in a MySQL database, ensuring data integrity and privacy for each unique user.",
-            "Project was completed in strict manner following the SDD (Software Design Document).",
-            "Used several design patterns and followed the SOLID principles to complete the project."
-
-        ],
-    },
-    {
-        title: "Unity Game Developer",
-        company_name: "C#",
-        icon: game,
-        iconBg: "#a2d2ff",
-        date: "Jan 2023 - Dec 2023",
-        points: [
-            "Developed engaging 2D games using Unity engine, focusing on gameplay mechanics, user interfaces, and sound effects.",
-            "Utilized C# scripting to program game functionality, such as player controls, enemy behavior, and game logic.",
-            "Integrated third-party plugins and assets to enhance game features and performance.",
-            "Conducted testing and debugging to ensure high-quality, bug-free gameplay experiences.",
+            "Data Structures and Algorithms: Covered fundamental algorithms, data structures, and their applications.",
+            "Operating Systems: Studied OS principles, process management, memory management, and system calls.",
+            "Software Design: Focused on software development methodologies, project management, and collaborative coding practices.",
         ],
     },
 ];
@@ -164,7 +148,7 @@ export const socialLinks = [
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/tenzin-kunchok-24a6282ba',
+        link: 'https://www.linkedin.com/in/tenzin-kunchok',
     }
 ];
 
