@@ -37,6 +37,8 @@ import {
     movie,
     radical,
     yorku,
+    payload,
+    film,
 
 } from "../assets/icons";
 
@@ -156,7 +158,7 @@ export const socialLinks = [
 
 export const projects = [
     {
-        iconUrl: anime,
+        iconUrl: film,
         theme: 'btn-back-blue',
         name: 'Film Horizon',
         description: 'Designed and developed Film Horizon, a movie streaming platform, utilizing HTML, CSS, and JavaScript. Integrated Rest APIs from TMDB and VisSrc to enhance user experience with seamless video streaming capabilities.',
@@ -168,6 +170,13 @@ export const projects = [
         name: 'Netflix Clone',
         description: 'Developed a web application with a visual design similar to Netflix. Users can enjoy the familiar visual layout and design elements of Netflix.',
         link: 'https://github.com/tenzinkunchok25/netflix',
+    },
+    {
+        iconUrl: payload,
+        theme: 'btn-back-pink',
+        name: 'Payload E-commerce',
+        description: 'Developed a dynamic e-commerce website using Payload CMS, featuring user authentication, Stripe payment integration, product listings, a responsive shopping cart, and an admin page for content management. Implemented dark and light mode options for enhanced user experience, all within a scalable and maintainable architecture.',
+        link: 'https://github.com/tenzinkunchok25/ecommerce'
     },
     {
         iconUrl: movie,

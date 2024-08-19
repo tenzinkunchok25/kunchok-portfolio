@@ -39,6 +39,8 @@ import game from "./game.png"
 import movie from "./movie.png"
 import radical from "./radical.png"
 import yorku from "./yorku.png"
+import payload from "./payload.png"
+import film from "./film.png"
 
 export {
     css,
@@ -82,4 +84,6 @@ export {
     movie,
     radical,
     yorku,
+    payload,
+    film,
 }
