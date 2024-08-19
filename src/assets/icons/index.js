@@ -37,6 +37,8 @@ import diet from "./diet.png"
 import website from "./website.png"
 import game from "./game.png"
 import movie from "./movie.png"
+import radical from "./radical.png"
+import yorku from "./yorku.png"
 
 export {
     css,
@@ -77,5 +79,7 @@ export {
     diet,
     website,
     game,
-    movie
+    movie,
+    radical,
+    yorku,
 }

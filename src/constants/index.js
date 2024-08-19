@@ -34,7 +34,9 @@ import {
     diet,
     website,
     game,
-    movie
+    movie,
+    radical,
+    yorku,
 
 } from "../assets/icons";
 
@@ -110,12 +112,12 @@ export const experiences = [
     {
         title: "Sofware Engineering Intern",
         company_name: "Radical AI",
-        icon: website,
+        icon: radical,
         iconBg: "#b7e4c7",
         date: "Jan 2024 - Apr 2024",
         points: [
             "Developing and maintaining web applications using HTML, CSS, JS and other related technologies.",
-            "Collaborating with others to create high-quality products which are usefula and usable.",
+            "Collaborating with others to create high-quality products which are useful and usable.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
@@ -123,7 +125,7 @@ export const experiences = [
     {
         title: "Computer Science Student",
         company_name: "York University",
-        icon: website,
+        icon: yorku,
         iconBg: "#b7e4c7",
         date: "Sep 2019 - Dec 2023",
         points: [
