@@ -152,7 +152,7 @@ export const socialLinks = [
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/tenzin-kunchok',
+        link: 'https://www.linkedin.com/in/tenzinkunchok',
     }
 ];
 
