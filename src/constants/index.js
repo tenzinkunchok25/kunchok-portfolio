@@ -142,7 +142,7 @@ export const socialLinks = [
     {
         name: 'Contact',
         iconUrl: contact,
-        link: '/contact',
+        link: 'https://tenzinkunchok25.github.io/kunchok-portfolio/contact',
     },
     {
         name: 'GitHub',
