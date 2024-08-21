@@ -5,10 +5,10 @@
   "homepage": "https://tenzinkunchok25.github.io/kunchok-portfolio/",
   "type": "module",
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --watch",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
@@ -21,7 +21,8 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.17.0",
     "react-vertical-timeline-component": "^3.6.0",
-    "three": "^0.157.0"
+    "three": "^0.157.0",
+    "watch": "^1.0.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
