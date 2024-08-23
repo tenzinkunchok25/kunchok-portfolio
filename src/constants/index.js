@@ -116,12 +116,12 @@ export const experiences = [
         company_name: "Radical AI",
         icon: radical,
         iconBg: "#b7e4c7",
-        date: "Jan 2024 - Apr 2024",
+        date: "Apr 2024 - Jun 2024",
         points: [
-            "Developing and maintaining web applications using HTML, CSS, JS and other related technologies.",
-            "Collaborating with others to create high-quality products which are useful and usable.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Worked on front-end components using React, contributing to the development of responsive and dynamic user interfaces.",
+            "Actively participated in Agile ceremonies such as weekly planning and retrospectives, ensuring continuous improvement and alignment with project goals.",
+            "Took ownership of tasks from the team backlog, efficiently completing them and delivering high-quality code in a collaborative setting.",
+            "Frequently received constructive feedback from team members and the tech lead, which enhanced my development skills and contributed to the overall success of the projects.",
         ],
     },
     {
